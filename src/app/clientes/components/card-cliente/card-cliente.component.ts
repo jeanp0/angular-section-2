@@ -30,7 +30,7 @@ export class CardClienteComponent implements OnInit {
     this.clienteService.cambiarEstado(cliente).subscribe((res) => {
       cliente.estado = res.estado;
       // la linea a continuación creo que no es necesaria porque el usuario ya se encuentra en la lista de cliente,
-      // sin embargo, lo hago porque así lo requiere Dantee en la tarea
+      // sin embargo, lo redirecciono porque así lo especifica la tarea
       this.router.navigate(['clientes/listar/']);
     });
   }

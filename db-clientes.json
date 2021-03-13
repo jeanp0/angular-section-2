@@ -1,0 +1,83 @@
+{
+  "clientes": [
+    {
+      "id": "ah172s",
+      "nombres": "María",
+      "apellidos": "Perez",
+      "correo": "juanperez@mil.com",
+      "celular": "0980090096",
+      "direccion": "Calles Bolivar y Cotopaxi.",
+      "estado": true
+    },
+    {
+      "nombres": "Marias",
+      "apellidos": "Hernandez",
+      "celular": "0945679524",
+      "direccion": "0945679524",
+      "correo": "mher1998@gmail.com",
+      "id": "ah182s",
+      "estado": true
+    },
+    {
+      "id": "Zk4NeUl",
+      "nombres": "sdddd",
+      "apellidos": "Sánchez",
+      "correo": "jorgesan56@gmail.com",
+      "celular": "0974598714",
+      "direccion": "Calles Quito y Antepara, frente a la ferreteria disensa.",
+      "estado": true
+    },
+    {
+      "id": "HwX11hs",
+      "nombres": "asdfe",
+      "apellidos": "Espinoza",
+      "correo": "jeanpi3rm@gmail.com",
+      "celular": "1234567890",
+      "direccion": "sdsddssdsd"
+    },
+    {
+      "nombres": "sdsd",
+      "apellidos": "sdsdsd",
+      "correo": "sddssddssdsd@ds",
+      "celular": "sddsdssdsd",
+      "direccion": "sddsdsds",
+      "estado": true,
+      "id": "ppaW-2D"
+    },
+    {
+      "nombres": "okds",
+      "apellidos": "sdd23",
+      "correo": "sd@ds",
+      "celular": "2332sdds23",
+      "direccion": "dsds3232",
+      "estado": true,
+      "id": "3b6KOYt"
+    },
+    {
+      "id": "Q_2-ja6",
+      "nombres": "Luisa",
+      "apellidos": "Perez",
+      "correo": "juanperez@mil.com",
+      "celular": "0980090096",
+      "direccion": "Calles Bolivar y Cotopaxi."
+    },
+    {
+      "nombres": "Bryan",
+      "apellidos": "Perez",
+      "correo": "juanperez@mil.com",
+      "celular": "0980090096",
+      "direccion": "Calles Bolivar y Cotopaxi.",
+      "estado": false,
+      "id": "6X7S5ZM"
+    },
+    {
+      "id": "4yqc6Hz",
+      "nombres": "dssd",
+      "apellidos": "sdds",
+      "correo": "dssdsd@sd",
+      "celular": "2323weewew",
+      "direccion": "23dddssd",
+      "estado": true
+    }
+  ]
+}

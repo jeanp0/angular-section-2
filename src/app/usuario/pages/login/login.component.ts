@@ -20,11 +20,9 @@ export class LoginComponent implements OnInit {
     this.usuarioService.login(this.usuario, this.contrasenia);
 
     if (this.usuarioService.verifyIsLogged()) {
-      //navegar a clites
       this.router.navigateByUrl('./clientes');
     } else {
       console.log('Error en auth');
-      //emitir algun mesj
     }
   }
 }
